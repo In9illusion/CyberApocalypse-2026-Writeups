@@ -6,8 +6,9 @@ Just wrapped up Cyber Apocalypse CTF 2026: The Salt Crown by Hack The Box! Compl
 This was only my second CTF ever. Almost everything was learned on the fly during the competition. Super tough, but honestly one of the most rewarding experiences I’ve had so far.
 
 ---
+(Right now I still constructing my writeup and it is my first time to do it TvT)
 
-Yo. In9illusion here :)
+Yo. In9illusion here :) 
 
 I’m a complete beginner. Like, actually zero.
 
