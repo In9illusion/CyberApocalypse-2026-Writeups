@@ -8,6 +8,11 @@ This was only my second CTF ever. Almost everything was learned on the fly durin
 ---
 (Right now I still constructing my writeup and it is my first time to do it TvT)
 
+Disclaimer
+Some writeups were polished with AI assistance for clarity and formatting, as I completed a large number of challenges solo under time pressure. All solutions and technical content are original.
+
+---
+
 Yo. In9illusion here :) 
 
 I’m a complete beginner. Like, actually zero.
